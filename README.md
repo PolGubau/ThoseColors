@@ -1,0 +1,1 @@
+This app works like a palette color creator, it has 4 different types of colour and you can chose how many colors you want and which of them.
